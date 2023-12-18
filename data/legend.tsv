@@ -1,0 +1,7 @@
+disp	color	pch	lwd	ptlwd	row
+E200K converter	#7570B3	19	2	0	1
+P102L converter	#1B9E77	19	2	0	1
+symptomatic timepoint	#FF0000	17	0	0	1
+RT-QuIC positive timepoint	#FF6700	1	0	2	1
+control	#000000	20	0.5	0	2
+non-converting carrier	#D782D7	20	0.5	0	2

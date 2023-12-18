@@ -1,0 +1,3 @@
+status	n	sex	age	elapsed	total_visits	total_csf	total_plasma	muts
+carrier	41	13M / 28F	47.5±14.0	2.0±1.9	126	104	109	6 P102L, 7 D178N, 22 E200K, 6 other
+control	21	6M / 15F	46.1±13.3	1.4±1.5	57	51	51	21 none

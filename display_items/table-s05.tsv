@@ -1,0 +1,6 @@
+disp	varname	llq	ymax	unit	n_individuals	n_samples	n_samples_carrier	n_samples_control	test_retest_mean_cv_without_converters	overall_y_intercept	overall_annual_change	overall_annual_change_pval	overall_carrier_diff	overall_carrier_pval	nccarriers_y_intercept	nccarriers_annual_change	nccarriers_annual_change_pval	controls_y_intercept	controls_annual_change	controls_annual_change_pval
+CSF NfL	csf_nfl	 5.40	4000	pg/mL	60	155	104	51	0.1626	183.69	0.02325	8.14e-20	 0.1930	0.00282	193.9	0.0261	2.72e-15	233.94	0.01794	5.38e-06
+CSF T-tau	csf_tau	 1.68	 525	pg/mL	60	151	100	51	0.0964	101.29	0.00943	2.77e-04	-0.1148	0.07338	 77.5	0.0128	2.75e-04	133.86	0.00340	3.45e-01
+CSF β-syn	csf_bsyn	15.90	1500	pg/mL	60	150	 99	51	0.1075	329.05	0.00884	3.75e-04	-0.1074	0.08190	267.5	0.0110	1.36e-03	393.58	0.00496	1.30e-01
+plasma NfL	plasma_nfl	 5.40	  60	pg/mL	62	160	109	51	0.1964	  3.51	0.02033	9.28e-14	 0.1360	0.05579	  4.2	0.0191	1.94e-07	  3.16	0.02263	1.01e-09
+plasma GFAP	plasma_gfap	 2.74	 800	pg/mL	61	158	107	51	0.1841	 45.78	0.01906	6.27e-08	-0.0458	0.60143	 37.1	0.0229	6.23e-10	 64.05	0.01172	1.13e-01

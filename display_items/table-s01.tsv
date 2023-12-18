@@ -1,0 +1,15 @@
+individual_code	visit	path_variant	codon129	age_of_onset_bin	months_from_onset	csf_rtquic	csf_rtquic_replicates	csf_tau	csf_nfl	csf_bsyn	csf_prp	plasma_nfl	plasma_gfap	moca	mrc_scale
+A	1	E200K	MV	75-79	-30	+	4/4	434	 918	 728	73.0	43.1	478.0	27	20
+A	2	E200K	MV	75-79	-28	+	4/4	476	1103	 771	69.8	58.2	707.7	25	20
+B	1	P102L	MV	35-39	-47	NA	NA	 NA	 406	 373	37.5	 7.7	 75.4	26	20
+B	2	P102L	MV	35-39	-44	NA	NA	133	 478	  NA	33.9	15.4	 74.8	27	20
+B	3	P102L	MV	35-39	  1	-	0/4	152	1584	 392	38.1	27.9	187.9	27	20
+B	4	P102L	MV	35-39	 12	-	0/4	119	2194	 366	30.6	26.1	204.0	28	19
+C	1	E200K	VV	65-69	-24	-	0/4	124	 757	 372	32.8	21.4	229.6	29	20
+C	2	E200K	VV	65-69	-21	-	0/4	125	 732	 358	27.6	23.1	207.2	28	20
+C	3	E200K	VV	65-69	-12	+	4/4	160	 623	 474	29.9	27.3	353.7	24	20
+D	1	E200K	MV	60-64	-41	NA	NA	 NA	  NA	  NA	  NA	23.8	 91.8	26	20
+D	2	E200K	MV	60-64	-37	+	4/4	398	1575	 997	66.4	20.5	 94.1	26	20
+D	3	E200K	MV	60-64	-16	NA	NA	 NA	  NA	  NA	  NA	  NA	   NA	26	20
+D	4	E200K	MV	60-64	-14	+	4/4	429	2413	1164	66.2	29.5	 93.1	27	20
+D	5	E200K	MV	60-64	 -1	+	4/4	490	3365	1244	64.8	28.8	 85.3	29	20

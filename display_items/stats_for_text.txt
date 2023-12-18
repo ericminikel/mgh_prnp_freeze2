@@ -1,0 +1,17 @@
+Last updated: 2023-12-18
+
+Pearson correlation Ella vs. Fujirebio T-tau: r = 0.94, P = 5.27e-70 * elisa
+
+
+Best linear regression fit for Ella vs. Fujirebio T-tau: ella = 16.3 + 0.67 * elisa
+
+
+Test-retest CVs for CSF T-tau: Ella = 9.5% ELISA = 12.7%
+
+
+CSF T-tau with vs. without CHAPS: mean +3.0%, T test P value = 0.550362653938166
+
+
+CSF beta-syn with vs. without CHAPS: mean +27.5%, T test P value = 0.0573750181273437
+
+
